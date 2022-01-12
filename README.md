@@ -1,2 +1,2 @@
-# EJ-orking-with-strings
+# JE-working-with-strings
 Working with strings
